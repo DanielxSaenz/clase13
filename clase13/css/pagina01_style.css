@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Roboto & display=swap');
+@font-face {
+    font-family: 'DancingScript';
+    src: url('../fuente/DancingScript-VariableFont_wght.ttf') format('truetype');
+}
+
+#titulo1{
+    text-shadow: 5px 5px 1px #aaa;
+    font-family:'Courier New', Courier, monospace;
+}
+#titulo2{
+    text-shadow: 5px 5px 1px #aaa;
+    font-family: 'roboto', sans-serif;
+}
+#titulo3{
+    text-shadow: 3px 3px 5px #f00,
+                 6px 6px 5px #0f0,
+                 9px 9px 5px #00f;
+    font-family: 'Roboto', sans-serif;
+}
+#titulo4{
+    text-shadow: 5px 5px 6px #fefefe;
+    font-family: 'DancingScript';
+}
